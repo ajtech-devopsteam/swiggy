@@ -1,4 +1,4 @@
-a.t
-b.t
-testing formerging
-
+.settings
+.projects
+.classpath
+/node_modules
