@@ -1,3 +1,3 @@
 this file cintains deployment detaildsdssdf
-wq!
-
+this is for merginng master file
+save the line
